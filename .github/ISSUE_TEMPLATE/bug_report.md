@@ -11,10 +11,10 @@ A clear and concise description of what the bug is.
 
 **Domain**
 
--   [ ] Web
--   [ ] Machine Learning
--   [ ] Ardino
--   [ ] Others
+-   [ ] Development
+-   [ ] Testing
+-   [ ] Deployment
+-   [ ] others
 
 **To Reproduce**
 Steps to reproduce the behavior:
